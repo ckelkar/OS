@@ -1,0 +1,31 @@
+CS550 Operating Systems
+Spring 2016
+Assignment1 README FILE
+
+Due Date: Sunday,February 14, 2016
+Submission Date: Sunday,February 14, 2016
+Grace Period Used This Project: 0 Days
+Grace Period Remaining: 0 Days
+Author: Chinmay Pradeep Kelkar 
+e-mail: ckelkar1@binghamton.edu
+B-id: B00608680
+
+PURPOSE:  To implement a simple version of malloc() and its associated functions, free(), calloc(), and realloc().
+
+PERCENT COMPLETE: I believe I have completed 90% of this project. All the functions malloc(),calloc(),realloc(),free() are implemented and working.
+
+PARTS THAT ARE NOT COMPLETE: Stress test not working .
+
+BUGS: Stress test not working for iteratrions greater than 30. I have provided my_test.c file which is working for my file.
+
+FILES: 
+1.malloc.c
+2.mytest.c
+3.utility.c
+4.utility.h
+5.README
+
+EXTRA CREDIT: NA
+
+
+ACKNOWLEDGEMENT: None
